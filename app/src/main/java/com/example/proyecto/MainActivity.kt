@@ -73,6 +73,10 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    //Presentar las propiedades de un vehículo utilizando clases, como
+    // tracción, motor, tipo de vehículo, capacidad
+
+
     fun cedula(){
         var myArray= arrayListOf<Int>()
         myArray.addAll(listOf(1, 1, 0, 5, 9, 9, 7, 7, 3, 6))
